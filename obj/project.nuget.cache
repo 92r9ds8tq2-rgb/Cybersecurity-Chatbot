@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGrM+JVZdyk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siviw\\Downloads\\CyberSecurityChatbot_Fixed\\CyberSecurityChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siviw\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\siviw\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\siviw\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\siviw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

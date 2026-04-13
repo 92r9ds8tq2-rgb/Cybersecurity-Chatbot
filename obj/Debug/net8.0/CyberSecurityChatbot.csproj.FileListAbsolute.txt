@@ -1,0 +1,14 @@
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.AssemblyInfo.cs
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\bin\Debug\net8.0\CyberSecurityChatbot.exe
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\bin\Debug\net8.0\CyberSecurityChatbot.deps.json
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\bin\Debug\net8.0\CyberSecurityChatbot.runtimeconfig.json
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\bin\Debug\net8.0\CyberSecurityChatbot.dll
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\bin\Debug\net8.0\CyberSecurityChatbot.pdb
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.dll
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\refint\CyberSecurityChatbot.dll
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.pdb
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\CyberSecurityChatbot.genruntimeconfig.cache
+C:\Users\siviw\Downloads\CyberSecurityChatbot_Fixed\obj\Debug\net8.0\ref\CyberSecurityChatbot.dll
